@@ -1,10 +1,10 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: quarterback/2021-website-hah-doubtful
 
 media_folder: static/assets
-public_folder: /assets
+public_folder: /
 
 collections:
   - name: settings
