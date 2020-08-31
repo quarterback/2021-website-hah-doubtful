@@ -6,7 +6,7 @@ title: Speaking
 metaDescription: >-
   Past & present speaking events at design, UX & content conferences by Ron
   Bronson.
-thumbnail: /speaking.jpeg
+thumbnail: ''
 ---
 I’ve presented at over 50 design, UX research & content strategy events around the world since 2013. Here's a smattering of (more) recent ones:
 
