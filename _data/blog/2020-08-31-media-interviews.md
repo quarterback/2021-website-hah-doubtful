@@ -4,7 +4,7 @@ path: /interviews
 date: 2020-08-01T19:24:38.798Z
 title: Media & Interviews
 metaDescription: 'Articles, podcast appearances & other features about Ron Bronson'
-thumbnail: /UXRCollective_Day2_MultispaceConfrence-242.jpg
+thumbnail: ''
 ---
 **Interviews**
 
