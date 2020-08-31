@@ -6,6 +6,7 @@ title: On Liminal UX
 metaDescription: >-
   Thinking about liminality in user experience design & who owns transition
   states.
+thumbnail: /transit.jpg
 ---
 [Over the past few years](https://twitter.com/ronbronson/status/1168235108207419393), I’ve been thinking a lot about [liminal](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.cio.com%2Farticle%2F3297969%2Fthe-ux-of-liminal-transient-spaces.html&t=YjZjMjZhMmY0N2MxZGNlNGE5YjRmNzliNjEyZjA0ODQyYzhmMzkyMyxXUmp1MENmdw%3D%3D&b=t%3A9kRtZeCTmM79cxjYm3jNUQ&p=https%3A%2F%2Fwork.ronbronson.com%2Fpost%2F190748064225%2Fliminal-ux&m=0&ts=1598902626) experiences in user experience. Liminality defines the transitional states between experiences.
 
