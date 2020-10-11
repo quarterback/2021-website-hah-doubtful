@@ -67,3 +67,5 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+_data/blog/newtumblrtheme
+_data/blog/non-dumb.css
